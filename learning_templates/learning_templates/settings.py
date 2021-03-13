@@ -26,7 +26,7 @@ SECRET_KEY = 'g_hriz&5pt(nxq+qa=31z!vyjelgrkpv)_fs4(^ysuq^u%r0k#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kundan786.pythonanywhere.com']
+ALLOWED_HOSTS = ['kundan786.pythonanywhere.com',]
 
 
 # Application definition
